@@ -1,3 +1,8 @@
+//Julian Loez Escobedo 14684
+//Julio Isaac Rodriguez 14298
+//31 de Agosto del 2O16
+
+
 public class VentanaInicio extends javax.swing.JFrame {
 
     /**
